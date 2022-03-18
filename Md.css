@@ -176,7 +176,7 @@ li input[type='checkbox'] {
 }
 .github-corner svg {
   color: #fff;
-  fill: var(--theme-color, #b942b4);
+  fill: var(--theme-color, #6f09c5);
   height: 80px;
   width: 80px;
 }
@@ -591,14 +591,14 @@ section.cover blockquote > p > a {
   transition: color 0.3s;
 }
 section.cover blockquote > p > a:hover {
-  color: var(--theme-color, #b942b4);
+  color: var(--theme-color, #6f09c5);
 }
 body {
   background-color: #fff;
 }
 /* sidebar */
 .sidebar {
-  background-color: #b942b4;
+  background-color: #6f09c5;
   color: #fff;
 }
 .sidebar li {
