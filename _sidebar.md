@@ -5,7 +5,7 @@
   - [Holopundits](/basic?id=Holopundits)
 
 - **Creator**
-  - [XR Guru Creator Homepage](/basic)
+  - [XR Guru Creator Homepage](/Creator)
   - [Design Studio Authoring Tool](/basic)
     - [Features](/signed-saml-request)
     - [System Requirements](/encrypted-saml-response)
