@@ -598,14 +598,14 @@ body {
 }
 /* sidebar */
 .sidebar {
-  background-color: #fff;
-  color: #364149;
+  background-color: #b942b4;
+  color: #fff;
 }
 .sidebar li {
   margin: 6px 0 6px 0;
 }
 .sidebar ul li a {
-  color: #505d6b;
+  color: #fff;
   font-size: 14px;
   font-weight: normal;
   overflow: hidden;
