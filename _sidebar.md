@@ -6,9 +6,10 @@
 
 - **Creator**
   - [XR Guru Creator Homepage](/Creator)
-  - [Design Studio Authoring Tool](/Creator)
-    - [Features](/Creator)
-    - [System Requirements](/Creator)
+  - [Design Studio Authoring Tool](/Creator?id=design-studio-authoring-tool)
+    - [Features](/Creator?id=features)
+    - [System Requirements](/Creator?id=system-requirements)
+    - [Download](/Creator?id=download)
   - [Topics](/saml-response)
     - [Signed](/signed-saml-response)
     - [System Requirements](/encrypted-saml-response)
