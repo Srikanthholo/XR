@@ -1,4 +1,7 @@
- XR GURU
+  
  
-<!-- background image -->
-![](Coverpage.PNG)
+
+![logo](Coverpage.PNG)
+ 
+ 
+ 
