@@ -1,17 +1,36 @@
 <!-- docs/_sidebar.md -->
 
-- **Get Started**
-  - [Prerequisite](/prerequistite)
-- **Basic**
-  - [Introduction](/basic)
-  - [Identity Provider](/idp)
-  - [Service Provider](/sp)
-  - [SAML Request](/saml-request)
-    - [Signed](/signed-saml-request)
-  - [SAML Response](/saml-response)
+- **Introduction to XR Guru™**
+  - [What is XR Guru?](/basic)
+  - [Holopundits](/basic?Id=Holopundits)
+  - [XR Guru Features and Benefits](/basic?Id=XR Guru Features and Benefits)
+
+- **Creator**
+  - [XR Guru Creator Homepage](/basic)
+  - [Design Studio Authoring Tool](/basic)
+    - [Features](/signed-saml-request)
+    - [System Requirements](/encrypted-saml-response)
+  - [Topics](/saml-response)
     - [Signed](/signed-saml-response)
-    - [Encrypted](/encrypted-saml-response)
-  - [Key Generation](/key-generation)
+    - [System Requirements](/encrypted-saml-response)
+  - [Packages](/saml-response)
+    - [Required](/signed-saml-response)
+    - [Marketplace](/encrypted-saml-response)
+    - [Package Status](/encrypted-saml-response)
+  - [Content Library](/key-generation)
+    - [File Types](/signed-saml-response)
+    - [File Status](/encrypted-saml-response)
+    - [Design Studio](/encrypted-saml-response)
+  - [Content Library](/key-generation)
+    - [Required](/signed-saml-response)
+    - [Marketplace](/encrypted-saml-response)
+    - [Package Status](/encrypted-saml-response)
+  - [Quiz](/key-generation)
+    - [Required](/signed-saml-response)
+    - [Required](/encrypted-saml-response)
+  - [Sales](/key-generation)
+    - [Marketplace](/signed-saml-response)
+    
 - **Advanced**
   - [Introduction](/advance)
   - [Metadata Distribution](/metadata-distribution)
