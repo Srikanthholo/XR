@@ -2,8 +2,8 @@
 
 - **Introduction to XR Guru™**
   - [What is XR Guru?](/basic)
-  - [Holopundits](/basic?Id=Holopundits)
-  - [XR Guru Features and Benefits](/basic?Id=XR Guru Features and Benefits)
+  - [Holopundits](/basic?id=Holopundits)
+  - [XR Guru Features and Benefits?](/basic?id=XR Guru Features and Benefits)
 
 - **Creator**
   - [XR Guru Creator Homepage](/basic)
