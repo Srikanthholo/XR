@@ -7,15 +7,13 @@ XR Guru’s Creator Homepage lets users quickly access the features they need to
   
     ![logo](DeignStudio.PNG)
 
-# DesignStudio Authoring Tool
+# Design Studio Authoring Tool
  
 Design Studio is XR Guru’s authoring tool that provides content
 creators with features and capabilities to create immersive
 learning experiences.
-
 Content creators can easily use Design Studio without coding
 experience.
-
 Content creators can use their own assets or choose from
 thousands of preloaded assets, including 3D animations,
 videos, and images.
