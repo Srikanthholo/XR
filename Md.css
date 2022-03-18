@@ -212,6 +212,11 @@ main.hidden {
   transition: transform 250ms ease-out;
   width: 300px;
   z-index: 20;
+  background-color: #b942b4;
+  color: #fff;
+
+  
+  
 }
 .sidebar > h1 {
   margin: 0 auto 1rem;
