@@ -24,7 +24,7 @@ can use when creating a quiz.
 - Text or Image
 
 
-# SaleS
+# Sales
 
 Used by the Admin User to manage the Institution’s
 Marketplace course offerings to the customer for
