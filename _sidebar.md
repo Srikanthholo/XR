@@ -13,9 +13,9 @@
   - [Topics](/Topics)
     - [Required](/Topics)
     - [Optional](/Topics?id=Optional)
-    - [File Types](/Topics?id=File Types)
+    - [File-Types](/Topics?id=File-Types)
     - [Marketplace](/Topics?id=Marketplace)
-    - [Topic Status](/Topics?id=Topic Status)
+    - [Topic-Status](/Topics?id=Topic-Status)
     
   - [Packages](/saml-response)
     - [Required](/signed-saml-response)
