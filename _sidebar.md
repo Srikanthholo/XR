@@ -30,9 +30,9 @@
   - [Quiz](/Quiz)
     - [Required](/Quiz?id=Required)
     - [Optional Settings](/Quiz?id=Optional-Settings)
-  - [Sales](/Quiz?id=Sales)
-    - [Marketplace](/Quiz?id=Marketplace)
-    - [Settings](/Quiz?id=Settings)
+  - [Sales](/Sales?id=Sales)
+    - [Marketplace](/Sales?id=Marketplace)
+    - [Settings](/Sales?id=Settings)
  
  
 - **Manage Content Library**
