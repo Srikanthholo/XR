@@ -57,7 +57,7 @@
                                    
 - **Create XR Projects using Design Studio**
 
-  - [Download &amp; Install XR Guru Design Studio ]()
+  - [Download &amp; Install XR Guru Design Studio ](Install?id=Design-Studio)
       - [Download XR Guru Design Studio](Install?id=Download-XR-Guru-Design-Studio)
       - [Install the XR Guru Design Studio](Install?id=Install-the-XR-Guru-Design-Studio)
       - [Launching the Design Studio](Install?id=Launch-the-Design-Studio )
