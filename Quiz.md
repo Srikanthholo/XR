@@ -1,6 +1,9 @@
 # Quiz
 XR Guru provides five (5) types of quiz questions that you
 can use when creating a quiz.
+
+![](DeignStudioQuiz.PNG)
+
 - Multiple Choice – Single Selection
 - Multiple Choice – Multiple Selection
 - Matching
