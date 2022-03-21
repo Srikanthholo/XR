@@ -6,7 +6,7 @@ A Package includes information on the subject matter, course
 objectives, and learning outcomes. It contains a list of topics
 grouped from the respective category.
 
-![](DeignStudio Pacakages.PNG)
+ ![](DeignStudioPacakages.PNG)
 
 # Required
 - Name
