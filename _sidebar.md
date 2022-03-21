@@ -3,6 +3,8 @@
 - **Introduction to XR Guru™**
   - [What is XR Guru?](/basic)
   - [Holopundits](/basic?id=Holopundits)
+  - [Features and Benefits](/basic?id=xr-guru-features-and-benefits)
+
 
 - **Creator**
   - [XR Guru Creator Homepage](/Creator)
@@ -16,7 +18,7 @@
     - [File-Types](/Topics?id=File-Types)
     - [Marketplace](/Topics?id=Marketplace)
     - [Topic-Status](/Topics?id=Topic-Status)
-    
+ 
   - [Packages](/saml-response)
     - [Required](/signed-saml-response)
     - [Marketplace](/encrypted-saml-response)
@@ -25,10 +27,6 @@
     - [File Types](/signed-saml-response)
     - [File Status](/encrypted-saml-response)
     - [Design Studio](/encrypted-saml-response)
-  - [Content Library](/key-generation)
-    - [Required](/signed-saml-response)
-    - [Marketplace](/encrypted-saml-response)
-    - [Package Status](/encrypted-saml-response)
   - [Quiz](/key-generation)
     - [Required](/signed-saml-response)
     - [Required](/encrypted-saml-response)
