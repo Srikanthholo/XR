@@ -30,7 +30,7 @@
   - [Quiz](/Quiz)
     - [Required](/Quiz?id=Required)
     - [Optional Settings](/Quiz?id=Optional-Settings)
-  - [Sales](/Quiz)
+  - [Sales](/Quiz?id=Sales)
     - [Marketplace](/Quiz?id=Marketplace)
   - [Settings](/Quiz?id=Settings)
 
