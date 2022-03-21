@@ -51,7 +51,7 @@
    - [Create a quiz and add questions to it]()
                                                
 - **Packaging projects and publish to marketplace**
-   - [create a new topic ]()
+   - [Create a new topic ]()
    - [Package and Topics Association]()
  
                                     
