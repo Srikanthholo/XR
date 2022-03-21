@@ -14,10 +14,10 @@ grouped from the respective category.
 - Category
 
 # Marketplace
-
 - You can choose to sell a package in the marketplace by setting a
 price for Individual customers or Institution customers, or both.
-Package Status
+
+# Package Status
 - The system provides the status of a package, such as draft,
 pending review, or cancelled by the publisher.
 - The Admin is the person with authority to approve or reject a
