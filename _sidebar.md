@@ -37,7 +37,7 @@
  
 - **Manage Content Library**
   - [Create a new file in content library]()
-  - [edit a file in content library]()
+  - [Edit a file in content library]()
  
                                    
 - **Create XR Projects using Design Studio**
@@ -47,12 +47,12 @@
   - [Create a Multi Scene project type]()
  
                                            
-- **Create and manage quizzes for your projects**
+- **Manage quizzes for your projects**
    - [Create a quiz and add questions to it]()
                                                
-- **Packaging created projects and publishing to marketplace**
+- **Packaging projects and publish to marketplace**
    - [create a new topic ]()
-   - [Create a new package and associate topics to it ]()
+   - [Package and Topics Association]()
  
                                     
 
