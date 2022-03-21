@@ -68,7 +68,7 @@
  
                                            
 - **Manage quizzes for your projects**
-   - [Create a quiz and add questions to it]()
+   - [Create a quiz and add questions to it](/Quiz?id=Create-a-new-Quiz)
      - [Create a new Quiz](/Quiz?id=Create-a-new-Quiz)
      - [Create a new Question](/Quiz?id=Create-a-new-Question)
      - [Multiple-Choice Single Selection Question](/Quiz?id=Create-a-Multiple-Choice-Single-Selection-Question)
