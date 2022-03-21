@@ -27,3 +27,60 @@ Design Studio project.
 # Design Studio
 Files from the Content Library display under My Library in
 Design Studio.
+
+# Create a new file
+
+The content library is a repository where you can create and manage different files like images, 360
+images, 2d Videos, 360 Monoscopic and Stereoscopic videos, Skyboxes, 3D models and Audio files.
+
+Using the controls available within the content library you can edit, move, download and delete the files
+that you have created.
+
+Create folders within content library to organize the files that you have created.
+
+The files thus created can be used directly as a topic content or used as part of XR DS project and linked
+to a topic.
+
+ ![](Addnewcontent.PNG)
+
+
+1. Click on Content Library menu
+2. Click on New dropdown
+3. Choose New file
+
+# Choose file type
+ ![](choose.PNG)
+
+1. Choose the preferred file type from
+dropdown.
+2. Click on Choose File button to select file
+from your local device.
+3. Click on Upload button.
+
+### Note:
+- File types Image & 360 image does not require a
+cover picture(thumbnail).
+
+
+
+# Upload cover image
+ ![](Thumbnail.PNG)
+
+1. Click on Upload Cover picture to choose
+file from your local device
+2. Click on Upload button
+
+
+# Check file status
+ ![](FileStatus.PNG)
+
+1. Click on check status to check the status
+of the file that is under processing.
+
+### Note:
+- File types 2D video, 360 video and 3D
+model will be processed before it is
+ready for use
+- When the processing is complete, status
+of the file changes to Ready for use.
+
