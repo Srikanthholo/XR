@@ -27,12 +27,13 @@
     - [File Types](/ContentLibrary?id=File-Types)
     - [File Status](/ContentLibrary?id=File-Status)
     - [Design Studio](/ContentLibrary?id=Design-Studio)
-  - [Quiz](/key-generation)
-    - [Required](/signed-saml-response)
-    - [Required](/encrypted-saml-response)
-  - [Sales](/key-generation)
-    - [Marketplace](/signed-saml-response)
-    
+  - [Quiz](/Quiz)
+    - [Required](/Quiz?id=Required)
+    - [Optional Settings](/Quiz?id=Optional-Settings)
+  - [Sales](/Quiz)
+    - [Marketplace](/Quiz?id=Marketplace)
+  - [Settings](/Quiz?id=Settings)
+
 - **Advanced**
   - [Introduction](/advance)
   - [Metadata Distribution](/metadata-distribution)
