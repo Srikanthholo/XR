@@ -37,6 +37,10 @@
  
 - **Manage Content Library**
   - [Create a new file in content library]()
+      - [Create a new file](/ContentLibrary.md?id=Create-a-new-file)  
+      - [Choose file type](/ContentLibrary.md?id=Choose-file-type)  
+      - [Upload cover image](/ContentLibrary.md?id=Upload-cover-image)  
+      - [Check file status](/ContentLibrary.md?id=Check-file-status)  
   - [Edit a file in content library]()
  
                                    
