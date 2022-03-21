@@ -2,6 +2,7 @@
 The Content Library is the repository where you upload the files
 that you want to use in creating your learning topics.
 
+![](ContentLib.PNG)
 
 - Create folders to organize your content files
 - Upload files into a Topic or Topic folder
