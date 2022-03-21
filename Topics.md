@@ -2,6 +2,8 @@
 A topic refers to the subject matter that is presented to the
 learner. Topics consist of the following:
 
+![](DeignStudioTopics.PNG)
+
 ## Required
 
 - Topic Name
