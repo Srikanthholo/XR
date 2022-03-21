@@ -50,7 +50,7 @@
 - **Manage quizzes for your projects**
    - [Create a quiz and add questions to it]()
                                                
-- **Packaging projects and publish to marketplace**
+- **Packaging projects**
    - [Create a new topic ]()
    - [Package and Topics Association]()
  
