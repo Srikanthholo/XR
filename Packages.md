@@ -28,9 +28,17 @@ published and assigned to users or placed in the marketplace.
 
 # Create a Package
  
+
+![](DeignStudioPacakages.PNG)
+
 # Step1 
 1. Click on Packages menu
 2. Click on New Package button
+
+
+
+
+![](Package1.PNG)
 
 # Step2
 1. Enter package name.
@@ -46,6 +54,7 @@ Institution or for both.
 later by clicking on “Save as Draft” button.
 
 
+![](Package2.PNG)
 # Step3
 1. Select the topics for creating the package.
 2. Move the selected topics to the righthand side table.
