@@ -69,6 +69,13 @@
                                            
 - **Manage quizzes for your projects**
    - [Create a quiz and add questions to it]()
+     - [Create a new Quiz](/Quiz?id=Create-a-new-Quiz)
+     - [Create a new Question](/Quiz?id=Create-a-new-Question)
+     - [Multiple-Choice Single Selection Question](/Quiz?id=Required)
+     - [Multiple-Choice Multi Selection Question](/Quiz?id=Required)
+     - [Matching type Question](/Quiz?id=Matching-type-Question)
+     - [Cycle type Quiz](/Quiz?id=Cycle-type-Quiz)
+     - [Puzzle type Quiz](/Quiz?id=Puzzle-type-Quiz)
                                                
 - **Packaging projects**
    - [Create a new topic ]()
