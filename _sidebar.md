@@ -37,16 +37,32 @@
  
 - **Manage Content Library**
   - [Create a new file in content library](/ContentLibrary.md?id=Create-a-new-file)
-      - [Create a new file](/ContentLibrary.md?id=Create-a-new-file)  
-      - [Choose file type](/ContentLibrary.md?id=Choose-file-type)  
-      - [Upload cover image](/ContentLibrary.md?id=Upload-cover-image)  
-      - [Check file status](/ContentLibrary.md?id=Check-file-status)  
+      - [Create a new file](/ContentLibrary?id=Create-a-new-file)  
+      - [Choose file type](/ContentLibrary?id=Choose-file-type)  
+      - [Upload cover image](/ContentLibrary?id=Upload-cover-image)  
+      - [Check file status](/ContentLibrary?id=Check-file-status)  
   - [Edit a file in content library]()
- 
+      - [Create a new file](/ContentLibrary?id=Create-a-new-file)  
+      - [Choose file type](/ContentLibrary?id=Choose-file-type)  
+      - [Upload cover image](/ContentLibrary?id=Upload-cover-image)  
+      - [Check file status](/ContentLibrary?id=Check-file-status)  
+      - [Create a new file](/ContentLibrary?id=Create-a-new-file)  
+      - [Choose file type](/ContentLibrary?id=Choose-file-type)  
+      - [Upload cover image](/ContentLibrary?id=Upload-cover-image)  
+      - [Check file status](/ContentLibrary?id=Check-file-status)  
+      - [Create a new file](/ContentLibrary?id=Create-a-new-file)  
+      - [Choose file type](/ContentLibrary?id=Choose-file-type)  
+      - [Upload cover image](/ContentLibrary?id=Upload-cover-image)  
+      - [Check file status](/ContentLibrary?id=Check-file-status)  
                                    
 - **Create XR Projects using Design Studio**
 
   - [Download &amp; Install XR Guru Design Studio ]()
+      - [Download XR Guru Design Studio](Install?id=Download-XR-Guru-Design-Studio)
+      - [Install the XR Guru Design Studio](Install?id=Install-the-XR-Guru-Design-Studio)
+      - [Launching the Design Studio](Install?id=Launch-the-Design-Studio )
+      - [Login & Start using](Install?id=Login-to-Design-Studio)
+  
   - [Create a simple project type]()
   - [Create a Multi Scene project type]()
  
