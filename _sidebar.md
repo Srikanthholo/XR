@@ -71,7 +71,7 @@
    - [Create a quiz and add questions to it]()
      - [Create a new Quiz](/Quiz?id=Create-a-new-Quiz)
      - [Create a new Question](/Quiz?id=Create-a-new-Question)
-     - [Multiple-Choice Single Selection Question](/Quiz?id=Multiple-Choice-Single-Selection-Question)
+     - [Multiple-Choice Single Selection Question](/Quiz?id=Create-a-Multiple-Choice-Single-Selection-Question)
      - [Multiple-Choice Multi Selection Question](/Quiz?id=Multiple-Choice-Multi-Selection-Question)
      - [Matching type Question](/Quiz?id=Matching-type-Question)
      - [Cycle type Quiz](/Quiz?id=Cycle-type-Quiz)
