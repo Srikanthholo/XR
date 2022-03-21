@@ -20,6 +20,8 @@ exe file will get downloaded to your device.
 
 1. Double click on the installable exe file to
 start the installation process.
+
+
 ![](install2.PNG)
 
 ![](install3.PNG)
