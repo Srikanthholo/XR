@@ -32,19 +32,27 @@
     - [Optional Settings](/Quiz?id=Optional-Settings)
   - [Sales](/Quiz?id=Sales)
     - [Marketplace](/Quiz?id=Marketplace)
-  - [Settings](/Quiz?id=Settings)
+    - [Settings](/Quiz?id=Settings)
+ 
+ 
+- **Manage Content Library**
+  - [Create a new file in content library]()
+  - [edit a file in content library]()
+ 
+                                   
+- **Create XR Projects using Design Studio**
 
-- **Advanced**
-  - [Introduction](/advance)
-  - [Metadata Distribution](/metadata-distribution)
-  - [IDP/SP Configuration](/configuration)
-    - [Identity Provider](/idp-configuration)
-    - [Service Provider](/sp-configuration)
-  - [Attributes & Template](/template)
-  - [Helper Functions](/helpers)
-  - [Multiple Entities](/multi-entities)
-- **Examples**
-  - [Gitlab](/gitlab)
-  - [OneLogin](/onelogin)
-  - [Okta](/okta)
-    - [Inbound SAML](/okta-inbound)
+  - [Download &amp; Install XR Guru Design Studio ]()
+  - [Create a simple project type]()
+  - [Create a Multi Scene project type]()
+ 
+                                           
+- **Create and manage quizzes for your projects**
+   - [Create a quiz and add questions to it]()
+                                               
+- **Packaging created projects and publishing to marketplace**
+   - [create a new topic ]()
+   - [Create a new package and associate topics to it ]()
+ 
+                                    
+
