@@ -50,7 +50,7 @@
      - [Create a folder while moving a file folder](/ContentLibrary?id=Create-a-folder-while-moving-a-file-folder) 
      - [Move multiple folders and files to a folder](/ContentLibrary?id=Move-multiple-folders-and-files-to-a-folder) 
      - [How to download a file](/ContentLibrary?id=How-to-download-a-file)  
-     - [File Status Definition](/ContentLibrary?id=file-status-definition)  
+     - [File Status Definition](/ContentLibrary?id=file-status-definition) 
                                    
 - **Create XR Projects using Design Studio**
 
