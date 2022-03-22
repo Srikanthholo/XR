@@ -77,12 +77,9 @@ file from your local device
 1. Click on check status to check the status
 of the file that is under processing.
 
-### Note:
-- File types 2D video, 360 video and 3D
-model will be processed before it is
-ready for use
-- When the processing is complete, status
-of the file changes to Ready for use.
+#### Note:
+- File types 2D video, 360 video and 3D model will be processed before it isready for use
+- When the processing is complete, status of the file changes to Ready for use.
 
 
 
@@ -107,7 +104,7 @@ of the file changes to Ready for use.
 - Once you are done with the changes, click on Save button.
 <br/>
 
-# Note:
+#### Note:
 1. Uploading a cover picture is not applicable for image and 360 image.
 2. For folders you can change only the name of the folder, since cover picture is not applicable for folders.
 
@@ -122,7 +119,7 @@ of the file changes to Ready for use.
 1. Click on kebab icon against the folder/file you want to delete.
 2. Click on Delete option from the panel.
 
-# Note:
+#### Note:
 1. If there are any files available within a folder then the folder cannot be deleted.
 2. Files that are in processing and currently in use status cannot be deleted.
 
@@ -135,9 +132,8 @@ Choosing to delete a file/folder, you will be asked to confirm the action made.
 2. Click on the button No to cancel the delete action made.
 
 
-# Note:
-- On confirming the delete action, the selected
-file/folder will get deleted from the library
+Note:
+- On confirming the delete action, the selected file/folder will get deleted from the library
 
 
 
@@ -155,7 +151,7 @@ file/folder will get deleted from the library
 2. Click on the Delete button 
 
 
-# Note:
+#### Note:
 - If there are any files available within a folder then the folder cannot be deleted.
 - Files that are in processing and currently in use status cannot be deleted.
 
@@ -168,7 +164,7 @@ Choosing to delete multiple files/folders, youwill be asked to confirm the actio
 1. Click on the button Yes to delete the selected files/folders.
 2. Click on the button No to cancel the delete action made.
 
-# Note:
+Note:
 - On confirming the delete action, the selected files/folders will get deleted from the library.
 
 
@@ -199,7 +195,7 @@ Choosing to delete multiple files/folders, youwill be asked to confirm the actio
 2. Click on Save to create the folder in the designated path.
 3. Click on Move Here button to move the selected file/folder to the designated path.
 
-# Note:
+#### Note:
 - You cannot create a folder with the same name if there is a folder with the same name already exists in the designated path.
 
 
@@ -211,7 +207,7 @@ Choosing to delete multiple files/folders, youwill be asked to confirm the actio
 
 1. Select the files/folders to move
 2. Click on Move to button.
-# Note:
+#### Note:
 - Follow the same steps mentioned earlier to move selected files/folders into the designated path.
 
 
@@ -225,13 +221,15 @@ Choosing to delete multiple files/folders, youwill be asked to confirm the actio
 
 1. Click on kebab icon against the file youwanted to download.
 2. Click on Download Option to download the file.
-# Note:
+
+#### Note:
 - File under processing status cannot be downloaded. 
 
 
 
-# File-Status
-| **Status Definition** | **Status Definition**                                                                         |
+# File Status Definition
+
+| **Status** | **Definition**                                                                         |
 | --------------------- | --------------------------------------------------------------------------------------------- |
 | Processing\*          |  Refers to a state where the file is being processed before it is ready for use.              |
 | Ready for use         | Refers to a state where the file is readily available for use in a topic or in XR DS project. |
