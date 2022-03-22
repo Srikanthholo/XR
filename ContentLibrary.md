@@ -91,13 +91,12 @@ of the file changes to Ready for use.
 
 
 
-# To edit a file/folder
+# To edit a file folder
 
  
 ![File1](https://user-images.githubusercontent.com/101865042/159483155-a40924e5-9777-48e7-b0fe-8fd32d46c19b.PNG)
 
-<br/>
-
+ 
 - Click on kebab icon against the file/folder you want to edit.
 - Click on Edit option from the panel.
 
@@ -109,45 +108,35 @@ of the file changes to Ready for use.
 <br/>
 
 # Note:
-1. Uploading a cover picture is not applicable
-for image and 360 image.
-2. For folders you can change only the name of
-the folder, since cover picture is not
-applicable for folders.
+1. Uploading a cover picture is not applicable for image and 360 image.
+2. For folders you can change only the name of the folder, since cover picture is not applicable for folders.
+
+<br/>
 
 
-
-
-# Delete a file/folder
+# Delete a file folder
 
 
 ![File3](https://user-images.githubusercontent.com/101865042/159487389-39a7d008-d546-4ef7-93f3-85a2552fc0db.PNG)
 
-1. Click on kebab icon against the
-folder/file you want to delete.
-2. Click on Delete option from the
-panel.
+1. Click on kebab icon against the folder/file you want to delete.
+2. Click on Delete option from the panel.
 
 # Note:
-1. If there are any files available within a
-folder then the folder cannot be
-deleted.
-2. Files that are in processing and
-currently in use status cannot be
-deleted.
+1. If there are any files available within a folder then the folder cannot be deleted.
+2. Files that are in processing and currently in use status cannot be deleted.
 
 
 ![File4](https://user-images.githubusercontent.com/101865042/159487412-08b7f352-6839-4620-aa82-a106e4f01356.PNG)
 
 
-Choosing to delete a file/folder, you will be asked
-to confirm the action made.
-1. Click on the button Yes to delete the selected
-file/folder.
-2. Click on the button No to cancel the delete
-action made.
+Choosing to delete a file/folder, you will be asked to confirm the action made.
+1. Click on the button Yes to delete the selected file/folder.
+2. Click on the button No to cancel the delete action made.
+
+
 # Note:
-1. On confirming the delete action, the selected
+- On confirming the delete action, the selected
 file/folder will get deleted from the library
 
 
@@ -156,11 +145,38 @@ file/folder will get deleted from the library
 
 
 
-# Delete multiple files/folders
+# Delete multiple files folders
+
+
+![File Multiple Delete](https://user-images.githubusercontent.com/101865042/159491921-a5a3bf6a-3c0c-426c-b61d-873801347bd0.PNG)
+
+
+1. Select files and folders that you want to  delete.
+2. Click on the Delete button 
+
+
+# Note:
+- If there are any files available within a folder then the folder cannot be deleted.
+- Files that are in processing and currently in use status cannot be deleted.
+
+
+
+![File Multiple Delete2](https://user-images.githubusercontent.com/101865042/159491968-4c0a335c-7fad-4e03-8489-0aa7581a7b2f.PNG)
+
+
+Choosing to delete multiple files/folders, youwill be asked to confirm the action made.
+1. Click on the button Yes to delete the selected files/folders.
+2. Click on the button No to cancel the delete action made.
+
+# Note:
+- On confirming the delete action, the selected files/folders will get deleted from the library.
+
+
+
 # Move a selected file/folder to a specific location within the content library
 # Move to pop-up
-# How to create a folder while moving a file/folder
-# How to move multiple folders and files to a folder?
+# Create a folder while moving a file folder
+# Move multiple folders and files to a folder
 # How to download a file?
 # File Status
 
