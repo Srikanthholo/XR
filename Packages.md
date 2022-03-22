@@ -7,15 +7,20 @@ objectives, and learning outcomes. It contains a list of topics
 grouped from the respective category.
 
  ![](DeignStudioPacakages.PNG)
+ 
 
 # Required
 - Name
 - Price
 - Category
 
+
+
 # Marketplace
 - You can choose to sell a package in the marketplace by setting a
 price for Individual customers or Institution customers, or both.
+
+
 
 # Package Status
 - The system provides the status of a package, such as draft,
@@ -28,13 +33,14 @@ published and assigned to users or placed in the marketplace.
 
 # Create a Package
  
+ 
 
 ![](DeignStudioPacakages.PNG)
+
 
 # Step1 
 1. Click on Packages menu
 2. Click on New Package button
-
 
 
 
@@ -55,6 +61,8 @@ later by clicking on “Save as Draft” button.
 
 
 ![](Package2.PNG)
+
+
 # Step3
 1. Select the topics for creating the package.
 2. Move the selected topics to the righthand side table.
@@ -63,10 +71,10 @@ package should list in the marketplace.
 4. Click on Submit for Review button.
 
 
-### Note:
-1. On submitting the package for review, the
+#Note:
+- On submitting the package for review, the
 admin will get notified and after review
 they will approve or reject the package.
-2. You will be notified via email when the
+-You will be notified via email when the
 package gets approved or rejected by
 admin
