@@ -45,7 +45,7 @@
      - [To edit a file folder](/ContentLibrary?id=To-edit-a-file-folder)  
      - [Delete a file folder](/ContentLibrary?id=Delete-a-file-folder)  
      - [Delete multiple files folders](/ContentLibrary?id=Delete-multiple-files-folders)  
-     - [Move a selected file folder to a specific location](/ContentLibrary?id=Move-a-selected-file/folder-to-a-specific-location-within-the-content-library)  
+     - [Move a selected file folder to a specific location](/ContentLibrary?id=move-a-selected-filefolder-to-a-specific-location-within-the-content-library)  
      - [Move to pop-up](/ContentLibrary?id=Move-to-pop-up)
      - [Create a folder while moving a file folder](/ContentLibrary?id=Create-a-folder-while-moving-a-file-folder) 
      - [Move multiple folders and files to a folder](/ContentLibrary?id=Move-multiple-folders-and-files-to-a-folder) 
