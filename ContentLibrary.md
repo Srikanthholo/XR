@@ -84,3 +84,83 @@ ready for use
 - When the processing is complete, status
 of the file changes to Ready for use.
 
+
+
+
+
+
+
+
+# To edit a file/folder
+
+ 
+![File1](https://user-images.githubusercontent.com/101865042/159483155-a40924e5-9777-48e7-b0fe-8fd32d46c19b.PNG)
+
+<br/>
+
+- Click on kebab icon against the file/folder you want to edit.
+- Click on Edit option from the panel.
+
+![File2](https://user-images.githubusercontent.com/101865042/159485476-5355893d-29d5-4686-a933-55e7ceba172e.PNG)
+
+- Edit the display name of the selected file.
+- Click on Change link to replace the cover picture of the file.
+- Once you are done with the changes, click on Save button.
+<br/>
+
+# Note:
+1. Uploading a cover picture is not applicable
+for image and 360 image.
+2. For folders you can change only the name of
+the folder, since cover picture is not
+applicable for folders.
+
+
+
+
+# Delete a file/folder
+
+
+![File3](https://user-images.githubusercontent.com/101865042/159487389-39a7d008-d546-4ef7-93f3-85a2552fc0db.PNG)
+
+1. Click on kebab icon against the
+folder/file you want to delete.
+2. Click on Delete option from the
+panel.
+
+# Note:
+1. If there are any files available within a
+folder then the folder cannot be
+deleted.
+2. Files that are in processing and
+currently in use status cannot be
+deleted.
+
+
+![File4](https://user-images.githubusercontent.com/101865042/159487412-08b7f352-6839-4620-aa82-a106e4f01356.PNG)
+
+
+Choosing to delete a file/folder, you will be asked
+to confirm the action made.
+1. Click on the button Yes to delete the selected
+file/folder.
+2. Click on the button No to cancel the delete
+action made.
+# Note:
+1. On confirming the delete action, the selected
+file/folder will get deleted from the library
+
+
+
+
+
+
+
+# Delete multiple files/folders
+# Move a selected file/folder to a specific location within the content library
+# Move to pop-up
+# How to create a folder while moving a file/folder
+# How to move multiple folders and files to a folder?
+# How to download a file?
+# File Status
+
