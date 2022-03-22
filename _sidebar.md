@@ -48,7 +48,7 @@
      - [Move a selected file folder to a specific location](/ContentLibrary?id=Move-a-selected-file/folder-to-a-specific-location-within-the-content-library)  
      - [Move to pop-up](/ContentLibrary?id=Move-to-pop-up)
      - [Create a folder while moving a file folder](/ContentLibrary?id=Create-a-folder-while-moving-a-file-folder) 
-     - [Move multiple folders and files to a folder](/ContentLibrary?id=Move multiple-folders-and-files-to-a-folder)  
+     - [Move multiple folders and files to a folder](/ContentLibrary?id=Move-multiple-folders-and-files-to-a-folder) 
      - [How to download a file?](/ContentLibrary?id=How-to-download-a-file?)  
      - [File Status](/ContentLibrary?id=File-Status)  
                                    
