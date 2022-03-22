@@ -33,7 +33,7 @@ navigate to the quiz listing page.
 the quiz listing page.
 
 
-![](DeignStudioQuiz.PNG)
+![](Quiz2.PNG)
 
 
 1. Enter Quiz name and Quiz description
