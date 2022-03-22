@@ -53,9 +53,13 @@ is ready for use.
 
 # Create a new Question
 
+
+![](Quiz4.PNG)
+
 1. Choose preferred question type from
 dropdown.
 
+![](Quiz3.PNG)
 
 1. Select Question Type as Text or Image,
 enter text or upload image based on the
@@ -64,7 +68,11 @@ selection you have made.
 Image, enter text or upload image based
 on the selection you have made. 
 
+
 # Create a Multiple-Choice Single Selection Question
+
+![](Quiz5.PNG)
+
 
 1. Select option type as Text or Image. enter text
 or upload image based on the selection you
@@ -79,6 +87,8 @@ question.
 
 
 # Multiple-Choice Multi Selection Question
+
+![](Quiz6.PNG)
 
 1. Select option type as Text or Image.
 enter text or upload images based on the
@@ -95,6 +105,9 @@ type.
 
 # Matching type Question
 
+
+![](Quiz7.PNG)
+
 1. For matching type questions, enter the
 matching options in the correct order.
 This order will be shuffled for the
@@ -105,6 +118,8 @@ question.
 
 # Cycle type Quiz
 
+![](Quiz8.PNG)
+
 1. For cycle type question, select the type
 Text or Image to enter text or upload
 image in the correct sequence. This order
@@ -114,6 +129,8 @@ attempt the question.
 3. Click on create button.
 
 # Puzzle type Quiz
+
+![](Quiz9.PNG)
 
 1. For puzzle type question, enter the
 question.
