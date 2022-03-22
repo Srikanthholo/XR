@@ -73,7 +73,7 @@ package should list in the marketplace.
 4. Click on Submit for Review button.
 
 
-#Note:
+# Note:
 - On submitting the package for review, the
 admin will get notified and after review
 they will approve or reject the package.
