@@ -3,8 +3,11 @@
 XR Guru’s Creator Homepage lets users quickly access the features they need to build their courses.
 - Users can use the left panel to move easily access your licensed applications.
 - The middle panel provides users with the steps needed to create learning topics.
+- 
 
 ![logo](Home.PNG)
+
+
 
 # Design Studio Authoring Tool
  
@@ -17,7 +20,11 @@ Content creators can use their own assets or choose from
 thousands of preloaded assets, including 3D animations,
 videos, and images.
 
+
+
 ![logo](DeignStudioHome.PNG)
+
+
 # Features
 
 - Use predefined actions and scripts to add labels and gestures to 3D models
@@ -34,8 +41,8 @@ videos, and images.
 
 # Download
 
-| [Download](https://content.xrguru.com/XRDS/Prod/Build/XRGDS.exe) | Version 2.8 |
-| ---------------------------------------------------------------- | ----------- |
+| [Download](https://content.xrguru.com/XRDS/Prod/Build/XRGDS.exe) | Version 1.27.8 |
+| ---------------------------------------------------------------- | ---------------|
  
 
  
