@@ -223,17 +223,19 @@ Note:
 2. Click on Download Option to download the file.
 
 #### Note:
-- File under processing status cannot be downloaded. 
+File under processing status cannot be downloaded. 
 
 
 
 # File Status Definition
 
-| **Status** | **Definition**                                                                         |
-| --------------------- | --------------------------------------------------------------------------------------------- |
-| Processing\*          |  Refers to a state where the file is being processed before it is ready for use.              |
-| Ready for use         | Refers to a state where the file is readily available for use in a topic or in XR DS project. |
-| Currently in use      | Refers to a state where the file is already in use as part of topic or XR DS project.         |
+| **Status **      | **Definition**                                                                                |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| Processing\*     |  Refers to a state where the file is being processed before it is ready for use.              |
+| Ready for use    | Refers to a state where the file is readily available for use in a topic or in XR DS project. |
+| Currently in use | Refers to a state where the file is already in use as part of topic or XR DS project.         |
+
+<br>
 
 
 *This status is applicable only for 2d videos, 360 videos and 3d models.
