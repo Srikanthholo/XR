@@ -174,9 +174,69 @@ Choosing to delete multiple files/folders, youwill be asked to confirm the actio
 
 
 # Move a selected file/folder to a specific location within the content library
+![FileSlectMove](https://user-images.githubusercontent.com/101865042/159502547-12395b45-8197-474a-b043-95ca92cf7fd4.PNG)
+
+
+1. Click on kebab icon against the folder/file you want to move.
+2. Click on Move to option from the panel.
+
 # Move to pop-up
+
+![FileMovePOP](https://user-images.githubusercontent.com/101865042/159502685-ba83c375-532a-4577-af2d-a2340379f2d3.PNG)
+
+
+1. Click on the navigation icon to go inside thefolder.
+2. Click on New folder button to create a NewFolder in the designated path.
+3. Click on Move Here to move the selected file/folder to the designated path
+
+
 # Create a folder while moving a file folder
+
+
+![FileNewFolder](https://user-images.githubusercontent.com/101865042/159502731-2bd1087b-c43b-4186-9205-140e0003589e.PNG)
+
+1. Enter the name of the folder.
+2. Click on Save to create the folder in the designated path.
+3. Click on Move Here button to move the selected file/folder to the designated path.
+
+# Note:
+- You cannot create a folder with the same name if there is a folder with the same name already exists in the designated path.
+
+
 # Move multiple folders and files to a folder
+
+![File MultipleMove](https://user-images.githubusercontent.com/101865042/159501622-31eb59d7-b439-4983-8848-ae7cea454dd7.PNG)
+
+
+
+1. Select the files/folders to move
+2. Click on Move to button.
+# Note:
+- Follow the same steps mentioned earlier to move selected files/folders into the designated path.
+
+
+
+
 # How to download a file?
-# File Status
+
+![FileDownload](https://user-images.githubusercontent.com/101865042/159501579-e3b99bf0-d723-4137-95a9-a2da68462991.PNG)
+
+
+
+1. Click on kebab icon against the file youwanted to download.
+2. Click on Download Option to download the file.
+# Note:
+- File under processing status cannot be downloaded. 
+
+
+
+# File-Status
+| **Status Definition** | **Status Definition**                                                                         |
+| --------------------- | --------------------------------------------------------------------------------------------- |
+| Processing\*          |  Refers to a state where the file is being processed before it is ready for use.              |
+| Ready for use         | Refers to a state where the file is readily available for use in a topic or in XR DS project. |
+| Currently in use      | Refers to a state where the file is already in use as part of topic or XR DS project.         |
+
+
+*This status is applicable only for 2d videos, 360 videos and 3d models.
 
