@@ -14,7 +14,7 @@ Institution customers, or both.
 Marketplace.
 
 
-# Settings
+# Settings1
 
 The contents that you create through XR Guru can be
 viewed across different platforms.
