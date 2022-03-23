@@ -4,9 +4,11 @@
   - [What is XR Guru?](/basic)
   - [Holopundits](/basic?id=Holopundits)
   - [Features and Benefits](/basic?id=xr-guru-features-and-benefits)
+  - [Introduction to XR Guru Platform](/basic?id=Introduction-to-XR-Guru-Platform)
+  - [XR Guru Platform Features](/basic?id=XR-Guru-Platform-Features)
 
-
-- **Creator**
+ 
+- **Publisher**
   - [XR Guru Creator Homepage](/Creator)
   - [Design Studio Authoring Tool](/Creator?id=design-studio-authoring-tool)
     - [Features](/Creator?id=features)
@@ -75,8 +77,16 @@
      - [Puzzle type Quiz](/Quiz?id=Puzzle-type-Quiz)
                                                
 - **Packaging projects**
-   - [Create a new topic ]()
-   - [Package and Topics Association]()
+   - [Create a new topic ](/Topics?id=create-a-new-topic)
+     - [Create a new topic](/Topics?id=create-a-new-topic)
+     - [Supported devices and associate category](/Topics?id=add-supported-devices-and-associate-category)
+     - [Add the topic content](/Topics?id=add-the-topic-content)
+     - [Set price for topic](/Topics?id=set-price-for-topic)
+     - [Set topic duration and associate quiz](/Topics?id=set-topic-duration-and-associate-quiz)
+     - [Set price for topic](/Topics?id=set-price-for-topic)
+     - [Add comments for the reviewer](/Topics?id=add-comments-for-the-reviewer)
+
+   - [Package and Topics Association](/Packages?id=step3)
  
                                     
 
