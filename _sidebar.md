@@ -41,7 +41,7 @@
       - [Choose file type](/ContentLibrary?id=Choose-file-type)  
       - [Upload cover image](/ContentLibrary?id=Upload-cover-image)  
       - [Check file status](/ContentLibrary?id=Check-file-status)  
-  - [Edit a file in content library]()
+  - [Edit a file in content library](/ContentLibrary?id=To-edit-a-file-folder)
      - [To edit a file folder](/ContentLibrary?id=To-edit-a-file-folder)  
      - [Delete a file folder](/ContentLibrary?id=Delete-a-file-folder)  
      - [Delete multiple files folders](/ContentLibrary?id=Delete-multiple-files-folders)  
