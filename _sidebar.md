@@ -4,11 +4,11 @@
   - [What is XR Guru?](/basic)
   - [Holopundits](/basic?id=Holopundits)
   - [Features and Benefits](/basic?id=xr-guru-features-and-benefits)
-  - [Introduction to XR Guru Platform](/basic?id=Introduction-to-XR-Guru-Platform)
-  - [XR Guru Platform Features](/basic?id=XR-Guru-Platform-Features)
+ 
 
  
-- **Publisher**
+- **Creator**
+
   - [XR Guru Creator Homepage](/Creator)
   - [Design Studio Authoring Tool](/Creator?id=design-studio-authoring-tool)
     - [Features](/Creator?id=features)
