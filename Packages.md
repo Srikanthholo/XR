@@ -35,20 +35,21 @@ published and assigned to users or placed in the marketplace.
 
 # Create a Package
  
- 
-
+# Step1 
 ![](DeignStudioPacakages.PNG)
 
 
-# Step1 
 1. Click on Packages menu
 2. Click on New Package button
 
 
 
+# Step2
+
+
 ![](Package1.PNG)
 
-# Step2
+
 1. Enter package name.
 2. Enter package description.
 3. Choose to sell this package to Individual or
@@ -58,14 +59,18 @@ Institution or for both.
 
 
 ### Note:
-1. You can save the package in draft status for
-later by clicking on “Save as Draft” button.
+1. You can save the package in draft status for later by clicking on “Save as Draft” button.
+
+
+
+
+# Step3
 
 
 ![](Package2.PNG)
 
 
-# Step3
+
 1. Select the topics for creating the package.
 2. Move the selected topics to the righthand side table.
 3. Select the categories under which the
@@ -74,9 +79,6 @@ package should list in the marketplace.
 
 
 # Note:
-- On submitting the package for review, the
-admin will get notified and after review
-they will approve or reject the package.
--You will be notified via email when the
-package gets approved or rejected by
-admin
+- On submitting the package for review, the admin will get notified and after review
+they will approve or reject the package. 
+-You will be notified via email when the package gets approved or rejected by admin
