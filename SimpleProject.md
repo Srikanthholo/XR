@@ -115,4 +115,16 @@ Click on “Next” button to start creating the project
 5. Option used to upload the “3D Model”  from “My Library” to xrguru.com which will be added to Asset Store
 6. Click “Add” button to the 3D Model to the scene.
 
+### **Add “Name” Label to 3D Model
+
+![NameLable](https://user-images.githubusercontent.com/101865042/160600585-7b80665c-2135-4764-9760-1a064037ee2f.PNG)
+
+1. Click on the ![image](https://user-images.githubusercontent.com/101865042/160600710-a54ba657-3a48-4b61-b7c7-8df7e0e8abb2.png) icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Label”.
+4. Click on  “Label” icon from the options to add name label.
+5. Upon selection you will be provided with a name label place holder  
+6. Enter the text to be displayed as part of label in properties panel.
+
+
 
