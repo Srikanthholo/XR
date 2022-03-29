@@ -89,7 +89,7 @@ Click on “Next” button to start creating the project
  - Option to “Sign out” from the project.
 
 
-# Setup Skybox/Environment  
+### Setup Skybox/Environment  
 
 
 ![AssetStore](https://user-images.githubusercontent.com/101865042/160569016-f9f78e20-9725-4f86-9f3b-763bbb3e9eae.PNG)
@@ -101,4 +101,18 @@ Click on “Next” button to start creating the project
 4. Choose your preferred environment
 5. Option used to upload the Skybox from “My Library” to xrguru.com which will be added to Asset Store
 6. Click on “Apply” button to preview the environment to your scene
+
+
+### Add 3D Model to the scene
+
+
+![3dmodels](https://user-images.githubusercontent.com/101865042/160592017-01d6df51-9981-434d-a9e1-1d3ca68ced94.PNG)
+
+1. Click on this Plus icon to add a model. 
+2. My Library – Choose the 3D model from your library which uploaded through XR Guru portal
+3. Asset Store – Choose the model from asset store of XR Guru
+4. Choose the model from your own list or from pre-loaded library
+5. Option used to upload the “3D Model”  from “My Library” to xrguru.com which will be added to Asset Store
+6. Click “Add” button to the 3D Model to the scene.
+
 
