@@ -115,7 +115,7 @@ Click on “Next” button to start creating the project
 5. Option used to upload the “3D Model”  from “My Library” to xrguru.com which will be added to Asset Store
 6. Click “Add” button to the 3D Model to the scene.
 
-### **Add “Name” Label to 3D Model
+### Add “Name” Label to 3D Model
 
 ![NameLable](https://user-images.githubusercontent.com/101865042/160600585-7b80665c-2135-4764-9760-1a064037ee2f.PNG)
 
@@ -125,6 +125,29 @@ Click on “Next” button to start creating the project
 4. Click on  “Label” icon from the options to add name label.
 5. Upon selection you will be provided with a name label place holder  
 6. Enter the text to be displayed as part of label in properties panel.
+
+
+
+
+
+### Add “Image” Label to 3D Model
+
+![image Label1](https://user-images.githubusercontent.com/101865042/160604095-99e2617d-a9ba-4997-b5c3-51996cdf2bb7.PNG)
+
+
+ 
+1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Image”.
+4. Click on  “Image” icon to add text  and to display it  near the part chosen.
+5. Click on pencil icon to load the images from your library or XR Guru asset store, choose the image and click add to load it to the scene. Only .png, .jpg, and .jpeg formats are allowed.
+
+
+![image Label2](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)
+
+
+
+
 
 
 
