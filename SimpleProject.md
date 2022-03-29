@@ -74,7 +74,7 @@ Click on “Next” button to start creating the project
  * Scene - A 3D model of a product or production system element, produced at authoritative levels of detail and accuracy 
 
 
-### Smple Project Editor space
+### Simple Project Editor space
 
 ![simpleProject Space](https://user-images.githubusercontent.com/101865042/160560428-d63ebea9-2895-4697-a6cf-5d319bc29a04.PNG)
 
@@ -88,4 +88,17 @@ Click on “Next” button to start creating the project
  - Section to list down the properties of object/scene/icon .
  - Option to “Sign out” from the project.
 
+
+# Setup Skybox/Environment  
+
+
+![AssetStore](https://user-images.githubusercontent.com/101865042/160569016-f9f78e20-9725-4f86-9f3b-763bbb3e9eae.PNG)
+
+
+1. Click on the “Skybox” icon . Choose the option between “My Library” or “Asset Store”
+2. My Library – Choose the skybox from your library which uploaded through XR Guru portal
+3. Asset Store – Choose the skybox from asset store of XR Guru
+4. Choose your preferred environment
+5. Option used to upload the Skybox from “My Library” to xrguru.com which will be added to Asset Store
+6. Click on “Apply” button to preview the environment to your scene
 
