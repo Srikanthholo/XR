@@ -145,9 +145,20 @@ Click on “Next” button to start creating the project
 
 ![image Label2](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)
 
+### Add “Video” Label to 3D Model
+
+ ![Videolabel](https://user-images.githubusercontent.com/101865042/160619076-15f0e164-944f-4b2b-87aa-620d2d99e322.PNG)
 
 
+1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Video”.
+4. Click on  “Video” icon to add text  and to display it  near the part chosen. 
+5. Click on pencil icon to load the Videos from your library or XR Guru asset store, choose the video and click add to load it to the scene. Only .mp4 format is allowed.
+6. Scale it Vertically, Horizontally, Inside, Outside and Stretch as preferred.
 
+
+![Videolabel2](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)
 
 
 
