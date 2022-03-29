@@ -1,12 +1,12 @@
 # Topics
 
-- The topic refers to the actual study material that the end user will be learning.
-- Topic includes the information on subject matter like the topic name, description on learning objectives, learning 
+1. The topic refers to the actual study material that the end user will be learning.
+2. Topic includes the information on subject matter like the topic name, description on learning objectives, learning 
   outcomes, learning duration, topic content in the form of 2d video, 360 video, 3d animation, XR Guru Design Studio content.
 
-- In addition to this linking quizzes to a topic for letting the students to practice their learning.
-- You can choose to sell a topic in the marketplace by setting a price for either or both individuals and institutions.
-- Topics can be sold individually or as a package in the marketplace.
+3. In addition to this linking quizzes to a topic for letting the students to practice their learning.
+4. You can choose to sell a topic in the marketplace by setting a price for either or both individuals and institutions.
+5. Topics can be sold individually or as a package in the marketplace.
 
 
 A topic refers to the subject matter that is presented to the
