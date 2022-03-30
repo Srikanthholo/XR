@@ -133,8 +133,7 @@ Click on “Next” button to start creating the project
 ### Add “Image” Label to 3D Model
 
 ![image Label1](https://user-images.githubusercontent.com/101865042/160604095-99e2617d-a9ba-4997-b5c3-51996cdf2bb7.PNG)
-
-
+![image Label2](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)
  
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
@@ -143,12 +142,11 @@ Click on “Next” button to start creating the project
 5. Click on pencil icon to load the images from your library or XR Guru asset store, choose the image and click add to load it to the scene. Only .png, .jpg, and .jpeg formats are allowed.
 
 
-![image Label2](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)
 
 ### Add “Video” Label to 3D Model
 
  ![Videolabel](https://user-images.githubusercontent.com/101865042/160619076-15f0e164-944f-4b2b-87aa-620d2d99e322.PNG)
-
+![Videolabel2](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
@@ -158,10 +156,12 @@ Click on “Next” button to start creating the project
 6. Scale it Vertically, Horizontally, Inside, Outside and Stretch as preferred.
 
 
-![Videolabel2](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)
+
 
 
 ### Add “Audio” Label to 3D Model
+![Audio Label](https://user-images.githubusercontent.com/101865042/160793842-1de4735d-b3af-42e6-bed1-b52a129e26f1.PNG)
+![Audio Label2](https://user-images.githubusercontent.com/101865042/160793852-624f6b6b-2dc6-4ac5-8735-2ae50fb6dade.PNG)
 
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
@@ -171,6 +171,10 @@ Click on “Next” button to start creating the project
 5. Click on pencil icon to load the audio files from your library or XR Guru asset store, choose the file and click add to load it to the scene. Only .wav format is allowed.
 
 ### Add “Text” Label to 3D Model
+
+![TextLabel](https://user-images.githubusercontent.com/101865042/160793678-75737a4b-2051-4f55-beca-b1803174e81d.PNG)
+
+![TextLabel2](https://user-images.githubusercontent.com/101865042/160793782-03f2309d-ca63-4b89-97f2-ad4e759d89db.PNG)
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
@@ -182,7 +186,11 @@ Click on “Next” button to start creating the project
 
 
 ### Add “Transition” Label to 3D Model
- 
+
+
+ ![Tansition](https://user-images.githubusercontent.com/101865042/160793607-09b8adb5-06fb-4077-8600-98875cd45de5.PNG)
+![Tansition2](https://user-images.githubusercontent.com/101865042/160793615-7ad780b6-ce28-4613-b11a-fb39d2e5f64b.PNG)
+
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
 3. Click on empty space where the label should be displayed. Choose the label type as “Transition”.
@@ -194,15 +202,25 @@ Click on “Next” button to start creating the project
 
 ### Add “Gestures” to Scene
 
-1. ![image](https://user-images.githubusercontent.com/101865042/160751022-74cba5ed-9f56-4442-8980-d8302d61caaa.png) – Click on the icon to add a Label. 
-2. Click on part of the 3D model to which you want to add label.
-3. Click on empty space where the label should be displayed. Choose the label type as “Text”.
-4. Click on  “Text” icon add detailed additional notes. Place the label pointing towards the part  of the 3D model. 
-5. Format the content using Text Alignment, Font Size, Panel Width, Heading Font Size and select the Color for Heading, Content and Panel.
+
+![Gestures](https://user-images.githubusercontent.com/101865042/160793569-0fa9221f-0ce7-468a-8550-3cea97322aed.PNG)
+![Gestures 2](https://user-images.githubusercontent.com/101865042/160793580-0c02e043-92da-45cd-a376-9ff4761120dc.PNG)
+
+1. ![image](https://user-images.githubusercontent.com/101865042/160751022-74cba5ed-9f56-4442-8980-d8302d61caaa.png) – Click on the icon to add “Gestures”. 
+2. Enabling the Gestures properties  allows to “Move”, “Scale” and “Rotate”  the 3d model while experiencing in AR/VR devices.
+3. Upon enabling options, buttons will be added to scene.
+4. Tap on each button to edit the properties and to the needs of the scene.
+5. Click “Apply” to apply the changes. 
+ 
+
 
 
 
 ### Add “Explode” to Scene
+
+![Explode1](https://user-images.githubusercontent.com/101865042/160793503-d769b21f-de8d-41f6-bdc3-6f279a839a0a.PNG)
+ 
+![explode2](https://user-images.githubusercontent.com/101865042/160793513-52c99c9f-bfd9-4109-b3a2-7fa1c7c266e4.PNG)
 
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160752442-9e8dc329-ced1-4afa-a6d1-e3a15ea4724e.png) – Click on the icon to add “Explode”. 
@@ -211,4 +229,3 @@ Click on “Next” button to start creating the project
 4. Options provided to edit the properties to the needs of the scene.
 5. Click “Apply” to enable the options. 
 
- 
