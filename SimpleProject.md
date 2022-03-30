@@ -221,9 +221,6 @@ Click on “Next” button to start creating the project
 
 
 
-
-
-
 Expode|  Settings
 --- | ---
 [![](https://user-images.githubusercontent.com/101865042/160793503-d769b21f-de8d-41f6-bdc3-6f279a839a0a.PNG)](https://user-images.githubusercontent.com/101865042/160793503-d769b21f-de8d-41f6-bdc3-6f279a839a0a.PNG)|[![](https://user-images.githubusercontent.com/101865042/160793513-52c99c9f-bfd9-4109-b3a2-7fa1c7c266e4.PNG)](https://user-images.githubusercontent.com/101865042/160793513-52c99c9f-bfd9-4109-b3a2-7fa1c7c266e4.PNG)  
@@ -233,5 +230,30 @@ Expode|  Settings
 3. The “Range” value defines how far the parts should be separated (Range 1 to 7) and “Speed” –  value defines how fast the separation should be done (Range 0.1 to 1).
 4. Options provided to edit the properties to the needs of the scene.
 5. Click “Apply” to enable the options. 
+
+
+### “Save” & Publish” the completed project
+![Save and publish](https://user-images.githubusercontent.com/101865042/160810319-ae5bd347-f9ba-479a-8bb6-5b33c61c5b69.PNG)
+
+![Publish](https://user-images.githubusercontent.com/101865042/160810327-ddc2159b-029c-4986-8bd8-91a3d3fe0d11.PNG)
+
+1. “File” – Click on the File to see the dropdown options.
+2. Select “Save” option from the dropdown and save the project
+3. Select the “Publish”  option to Publish the work. 
+4. Click “Publish” to move it to the Portal.
+
+
+### Publishing a project
+
+1. File – Click on the File to see the dropdown options.
+2. Upload – Enables to upload the completed project in the xrstudio.xrguru.com and the project will be added in the Asset store. 
+3. Save – Option used to save the project
+4. Publish – Once the project is completed using this option will enable to Publish the work. 
+5. Close –  Using this option you can close the current project and open/create a project. 
+
+
+![Save and publish](https://user-images.githubusercontent.com/101865042/160810338-fabcbf06-1848-4ba5-9c40-c73349f4c761.PNG)
+
+
 
 
