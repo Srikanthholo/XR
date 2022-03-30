@@ -8,10 +8,6 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
  
 
 
-https://user-images.githubusercontent.com/101865042/160842980-f58d1535-419a-4edb-92d4-7725652e341f.mp4
-
-
-
 # XR Guru Features and Benefits
 
 - &#x20;Multiple licensing programs to meet the needs of Individuals and Institutions.&#x20;
