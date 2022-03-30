@@ -218,9 +218,7 @@ Click on “Next” button to start creating the project
 
 ### Add “Explode” to Scene
 
-![Explode1](https://user-images.githubusercontent.com/101865042/160793503-d769b21f-de8d-41f6-bdc3-6f279a839a0a.PNG)
- 
-![explode2](https://user-images.githubusercontent.com/101865042/160793513-52c99c9f-bfd9-4109-b3a2-7fa1c7c266e4.PNG)
+![Explode1](https://user-images.githubusercontent.com/101865042/160793503-d769b21f-de8d-41f6-bdc3-6f279a839a0a.PNG)![explode2](https://user-images.githubusercontent.com/101865042/160793513-52c99c9f-bfd9-4109-b3a2-7fa1c7c266e4.PNG)
 
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160752442-9e8dc329-ced1-4afa-a6d1-e3a15ea4724e.png) – Click on the icon to add “Explode”. 
