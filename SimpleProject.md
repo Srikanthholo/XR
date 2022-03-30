@@ -205,8 +205,11 @@ Click on “Next” button to start creating the project
 ### Add “Gestures” to Scene
 
 
-![Gestures](https://user-images.githubusercontent.com/101865042/160793569-0fa9221f-0ce7-468a-8550-3cea97322aed.PNG)
-![Gestures 2](https://user-images.githubusercontent.com/101865042/160793580-0c02e043-92da-45cd-a376-9ff4761120dc.PNG)
+Gestures |  Settings
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160793569-0fa9221f-0ce7-468a-8550-3cea97322aed.PNG)](https://user-images.githubusercontent.com/101865042/160793569-0fa9221f-0ce7-468a-8550-3cea97322aed.PNG)|[![](https://user-images.githubusercontent.com/101865042/160793580-0c02e043-92da-45cd-a376-9ff4761120dc.PNG)](https://user-images.githubusercontent.com/101865042/160793580-0c02e043-92da-45cd-a376-9ff4761120dc.PNG) 
+
+ 
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160751022-74cba5ed-9f56-4442-8980-d8302d61caaa.png) – Click on the icon to add “Gestures”. 
 2. Enabling the Gestures properties  allows to “Move”, “Scale” and “Rotate”  the 3d model while experiencing in AR/VR devices.
@@ -214,7 +217,7 @@ Click on “Next” button to start creating the project
 4. Tap on each button to edit the properties and to the needs of the scene.
 5. Click “Apply” to apply the changes. 
  
-[![](img.jpg)](img.jpg)
+ 
 
 
 
