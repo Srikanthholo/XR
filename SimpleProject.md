@@ -118,6 +118,8 @@ Click on “Next” button to start creating the project
 ### Add “Name” Label to 3D Model
 
 ![NameLable](https://user-images.githubusercontent.com/101865042/160600585-7b80665c-2135-4764-9760-1a064037ee2f.PNG)
+![Label2](https://user-images.githubusercontent.com/101865042/160815192-dd833c94-b6c9-4fd8-9bd5-3531b5d91637.PNG)
+
 
 1. Click on the ![image](https://user-images.githubusercontent.com/101865042/160600710-a54ba657-3a48-4b61-b7c7-8df7e0e8abb2.png) icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
