@@ -5,8 +5,12 @@ XR Guru™ is a next-generation education and training application designed to b
 # Holopundits
 
 Holopundits® As a premier global XR educational partner, Holopundits' mission is to provide users with immersive technologies that enhance the learner's knowledge and application of information. Holopundits’ proven ability to develop closely-aligned course content makes us the preferred partner for industry and academic institutions. Our progressive and active XR Guru developers continue to expand the platform using the latest XR technologies and assets. Our commitment to the learning organization is focused on supporting our partners and customers who plan to meet the modern demands for training and education using XR learning experiences.
-
  
+
+
+https://user-images.githubusercontent.com/101865042/160842980-f58d1535-419a-4edb-92d4-7725652e341f.mp4
+
+
 
 # XR Guru Features and Benefits
 
@@ -23,3 +27,12 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 - Easily explain simple or complex topics using XR interactions, 3D models, and real-time illustrations.&#x20;
 - Enable learners to focus on the content without distractions in an experiential learning environment.&#x20;
 - Learners can create a study plan based on their preferences and learn at their comfort
+
+
+ 
+
+
+
+
+
+
