@@ -76,6 +76,9 @@
       - [Add “Transition” Label to 3D Model](/SimpleProject?id=add-transition-label-to-3d-model)
       - [Add “Gestures” to Scene](/SimpleProject?id=add-gestures-to-scene)
       - [Add “Explode” to Scene](/SimpleProject?id=add-explode-to-scene)
+      - [Save & Publish” the completed project](/SimpleProject?id=save-amp-publish-the-completed-project)
+      - [Publishing a project](/SimpleProject?id=publishing-a-project)
+
 
   - [Create a Multi Scene project type]()
  
