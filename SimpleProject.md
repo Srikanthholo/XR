@@ -117,8 +117,10 @@ Click on “Next” button to start creating the project
 
 ### Add “Name” Label to 3D Model
 
-![NameLable](https://user-images.githubusercontent.com/101865042/160600585-7b80665c-2135-4764-9760-1a064037ee2f.PNG)
-![Label2](https://user-images.githubusercontent.com/101865042/160815192-dd833c94-b6c9-4fd8-9bd5-3531b5d91637.PNG)
+ 
+Name Label |  Label
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160600585-7b80665c-2135-4764-9760-1a064037ee2f.PNG)](https://user-images.githubusercontent.com/101865042/160600585-7b80665c-2135-4764-9760-1a064037ee2f.PNG)|[![](https://user-images.githubusercontent.com/101865042/160815192-dd833c94-b6c9-4fd8-9bd5-3531b5d91637.PNG)](https://user-images.githubusercontent.com/101865042/160815192-dd833c94-b6c9-4fd8-9bd5-3531b5d91637.PNG)
 
 
 1. Click on the ![image](https://user-images.githubusercontent.com/101865042/160600710-a54ba657-3a48-4b61-b7c7-8df7e0e8abb2.png) icon to add a Label. 
@@ -134,8 +136,14 @@ Click on “Next” button to start creating the project
 
 ### Add “Image” Label to 3D Model
 
-![image Label1](https://user-images.githubusercontent.com/101865042/160604095-99e2617d-a9ba-4997-b5c3-51996cdf2bb7.PNG)
-![image Label2](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)
+Image Label |  Image
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160604095-99e2617d-a9ba-4997-b5c3-51996cdf2bb7.PNG)](https://user-images.githubusercontent.com/101865042/160604095-99e2617d-a9ba-4997-b5c3-51996cdf2bb7.PNG)|[![](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)](https://user-images.githubusercontent.com/101865042/160604109-52c67ff8-7719-4318-88c5-95a2cf669ad6.PNG)
+
+
+
+![image Label1]
+![image Label2]
  
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
@@ -147,9 +155,11 @@ Click on “Next” button to start creating the project
 
 ### Add “Video” Label to 3D Model
 
- ![Videolabel](https://user-images.githubusercontent.com/101865042/160619076-15f0e164-944f-4b2b-87aa-620d2d99e322.PNG)
-![Videolabel2](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)
+Video Label |  Video Player
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160619076-15f0e164-944f-4b2b-87aa-620d2d99e322.PNG)](https://user-images.githubusercontent.com/101865042/160619076-15f0e164-944f-4b2b-87aa-620d2d99e322.PNG)|[![](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)
 
+ 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
 3. Click on empty space where the label should be displayed. Choose the label type as “Video”.
@@ -162,8 +172,12 @@ Click on “Next” button to start creating the project
 
 
 ### Add “Audio” Label to 3D Model
-![Audio Label](https://user-images.githubusercontent.com/101865042/160793842-1de4735d-b3af-42e6-bed1-b52a129e26f1.PNG)
-![Audio Label2](https://user-images.githubusercontent.com/101865042/160793852-624f6b6b-2dc6-4ac5-8735-2ae50fb6dade.PNG)
+ 
+Audio Label |  Settings
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160793842-1de4735d-b3af-42e6-bed1-b52a129e26f1.PNG)](https://user-images.githubusercontent.com/101865042/160793842-1de4735d-b3af-42e6-bed1-b52a129e26f1.PNG)|[![](https://user-images.githubusercontent.com/101865042/160793852-624f6b6b-2dc6-4ac5-8735-2ae50fb6dade.PNG)](https://user-images.githubusercontent.com/101865042/160793852-624f6b6b-2dc6-4ac5-8735-2ae50fb6dade.PNG)
+
+
 
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
@@ -174,9 +188,13 @@ Click on “Next” button to start creating the project
 
 ### Add “Text” Label to 3D Model
 
-![TextLabel](https://user-images.githubusercontent.com/101865042/160793678-75737a4b-2051-4f55-beca-b1803174e81d.PNG)
+Text Label |  Settings
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160793678-75737a4b-2051-4f55-beca-b1803174e81d.PNG)](https://user-images.githubusercontent.com/101865042/160793678-75737a4b-2051-4f55-beca-b1803174e81d.PNG)|[![](https://user-images.githubusercontent.com/101865042/160793782-03f2309d-ca63-4b89-97f2-ad4e759d89db.PNG)](https://user-images.githubusercontent.com/101865042/160793782-03f2309d-ca63-4b89-97f2-ad4e759d89db.PNG)
 
-![TextLabel2](https://user-images.githubusercontent.com/101865042/160793782-03f2309d-ca63-4b89-97f2-ad4e759d89db.PNG)
+
+
+ 
 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
@@ -189,10 +207,12 @@ Click on “Next” button to start creating the project
 
 ### Add “Transition” Label to 3D Model
 
+Transition |  Settings
+--- | ---
+[![](https://user-images.githubusercontent.com/101865042/160793607-09b8adb5-06fb-4077-8600-98875cd45de5.PNG)](https://user-images.githubusercontent.com/101865042/160793607-09b8adb5-06fb-4077-8600-98875cd45de5.PNG)|[![](https://user-images.githubusercontent.com/101865042/160793615-7ad780b6-ce28-4613-b11a-fb39d2e5f64b.PNG)](https://user-images.githubusercontent.com/101865042/160793615-7ad780b6-ce28-4613-b11a-fb39d2e5f64b.PNG)
 
- ![Tansition](https://user-images.githubusercontent.com/101865042/160793607-09b8adb5-06fb-4077-8600-98875cd45de5.PNG)
-![Tansition2](https://user-images.githubusercontent.com/101865042/160793615-7ad780b6-ce28-4613-b11a-fb39d2e5f64b.PNG)
 
+ 
 1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
 2. Click on part of the 3D model to which you want to add label.
 3. Click on empty space where the label should be displayed. Choose the label type as “Transition”.
