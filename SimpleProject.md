@@ -161,4 +161,54 @@ Click on “Next” button to start creating the project
 ![Videolabel2](https://user-images.githubusercontent.com/101865042/160619102-2eb0b5e7-57dc-4c63-b36e-39abfbf272fc.PNG)
 
 
+### Add “Audio” Label to 3D Model
 
+
+1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Audio”.
+4. Click on  “Audio” icon to add text  and to display it  near the part chosen.
+5. Click on pencil icon to load the audio files from your library or XR Guru asset store, choose the file and click add to load it to the scene. Only .wav format is allowed.
+
+### Add “Text” Label to 3D Model
+
+1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Text”.
+4. Click on  “Text” icon add detailed additional notes. Place the label pointing towards the part  of the 3D model. 
+5. Format the content using Text Alignment, Font Size, Panel Width, Heading Font Size and select the Color for Heading, Content and Panel.
+
+
+
+
+### Add “Transition” Label to 3D Model
+ 
+1. ![image](https://user-images.githubusercontent.com/101865042/160603835-507ab03b-c5d1-4691-9624-25f44f6b54de.png)– Click on the icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Transition”.
+4. Click on  “Transition” icon to add Transition effect to the selected part of 3D model. 
+5. Enter the values in the “Distance” (Range 1 to 10) and “Speed” (Range 1 to 10) to transform the part closer to users view.
+ 
+
+
+
+### Add “Gestures” to Scene
+
+1. ![image](https://user-images.githubusercontent.com/101865042/160751022-74cba5ed-9f56-4442-8980-d8302d61caaa.png) – Click on the icon to add a Label. 
+2. Click on part of the 3D model to which you want to add label.
+3. Click on empty space where the label should be displayed. Choose the label type as “Text”.
+4. Click on  “Text” icon add detailed additional notes. Place the label pointing towards the part  of the 3D model. 
+5. Format the content using Text Alignment, Font Size, Panel Width, Heading Font Size and select the Color for Heading, Content and Panel.
+
+
+
+### Add “Explode” to Scene
+
+
+1. ![image](https://user-images.githubusercontent.com/101865042/160752442-9e8dc329-ced1-4afa-a6d1-e3a15ea4724e.png) – Click on the icon to add “Explode”. 
+2. Enabling the Explode to the scenes to hide and view parts of 3D models add to scene through AR/VR devices.
+3. The “Range” value defines how far the parts should be separated (Range 1 to 7) and “Speed” –  value defines how fast the separation should be done (Range 0.1 to 1).
+4. Options provided to edit the properties to the needs of the scene.
+5. Click “Apply” to enable the options. 
+
+ 
