@@ -62,7 +62,21 @@
       - [Launching the Design Studio](Install?id=Launch-the-Design-Studio )
       - [Login & Start using](Install?id=Login-to-Design-Studio)
   
-  - [Create a simple project type]()
+  - [Create a simple project type](/SimpleProject)
+      - [Create-a-new-project](/SimpleProject?id=create-a-new-project)
+      - [Introduction-to-simple-project-editor-space](/SimpleProject?id=introduction-to-simple-project-editor-space)
+      - [Simple-project-editor-space](/SimpleProject?id=simple-project-editor-space)
+      - [Simple-project-editor-spacet](/SimpleProject?id=simple-project-editor-space)
+      - [Add 3D Model to the scene](/SimpleProject?id=simple-project-editor-space)
+      - [Add “Name” Label to 3D Model](/SimpleProject?id=simple-project-editor-space)
+      - [Add “Image” Label to 3D Model](/SimpleProject?id=simple-project-editor-space)
+      - [Add “Video” Label to 3D Model](/SimpleProject?id=simple-project-editor-space)
+      - [Add “Audio” Label to 3D Model](/SimpleProject?id=simple-project-editor-space)
+      - [Add “Text” Label to 3D Model](/SimpleProject?id=add-transition-label-to-3d-model)
+      - [Add “Transition” Label to 3D Model](/SimpleProject?id=simple-project-editor-space)
+      - [Add “Gestures” to Scene](/SimpleProject?id=add-gestures-to-scene)
+      - [Add “Explode” to Scene](/SimpleProject?id=add-explode-to-scene)
+
   - [Create a Multi Scene project type]()
  
                                            
