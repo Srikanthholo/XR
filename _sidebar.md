@@ -80,7 +80,7 @@
       - [Publishing a project](/SimpleProject?id=publishing-a-project)
 
 
-  - [Create a Multi Scene project type]()
+  - [Create a Multi Scene project type](/MultipleScene)
  
                                            
 - **Manage quizzes for your projects**
