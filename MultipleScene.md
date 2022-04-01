@@ -43,10 +43,7 @@ XR Guru
 4. Choose your preferred environment
 5. Click on “Apply” button to preview the environment
 to your scene
-1
-2 3
-4
-5
+
 Setup Skybox/Environment to the scene
 How to create a “Multi Scene Project”
 4. Tap on the button to edit the properties to the needs of the scene.
